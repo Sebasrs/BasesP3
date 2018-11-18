@@ -1,0 +1,6 @@
+13.0
+4
+1       SQLCHAR             0       12      ","      1     IdProject              ""
+2       SQLCHAR             0       12      ","      2     Budget                 ""
+3       SQLCHAR             0       11      ","      3     StartDate              ""
+4       SQLCHAR             0       11      "\r\n"   4     EndDate                ""

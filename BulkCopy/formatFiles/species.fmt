@@ -1,0 +1,7 @@
+13.0
+5
+1       SQLCHAR             0       12      ","      1     IdSpecies                                ""
+2       SQLCHAR             0       50      ","      2     ScientificName                           SQL_Latin1_General_CP1_CI_AS
+3       SQLCHAR             0       50      ","      3     CommonName                               SQL_Latin1_General_CP1_CI_AS
+4       SQLCHAR             0       12      ","      4     IdDataSpecies                            ""
+5       SQLCHAR             0       12      "\r\n"   5     IndividualsPerArea                       ""

@@ -1,0 +1,9 @@
+13.0
+7
+1       SQLCHAR             0       12      ","      1     IdStaff                            ""
+2       SQLCHAR             0       12      ","      2     IdStaffPosition                    ""
+3       SQLCHAR             0       25      ","      3     Identification                     SQL_Latin1_General_CP1_CI_AS
+4       SQLCHAR             0       25      ","      4     Salary                             ""
+5       SQLCHAR             0       50      ","      5     StaffName                          SQL_Latin1_General_CP1_CI_AS
+6       SQLCHAR             0       50      ","      6     Direction                          SQL_Latin1_General_CP1_CI_AS
+7       SQLCHAR             0       12      "\r\n"   7     IdPhoneNumber                      ""

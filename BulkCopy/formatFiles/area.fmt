@@ -1,0 +1,6 @@
+13.0
+4
+1       SQLCHAR             0       12      ","      1     IdArea                           ""
+2       SQLCHAR             0       50      ","      2     AreaName                         SQL_Latin1_General_CP1_CI_AS
+3       SQLCHAR             0       12      ","      3     lenght                           ""
+4       SQLCHAR             0       12      "\r\n"   4     IdNationalPark                   ""

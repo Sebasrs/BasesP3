@@ -1,0 +1,6 @@
+13.0
+4
+1       SQLCHAR             0       12      ","      1     IdNationalPark                     ""
+2       SQLCHAR             0       50      ","      2     ParkName                           SQL_Latin1_General_CP1_CI_AS
+3       SQLCHAR             0       24      ","      3     DeclarationDate                    ""
+4       SQLCHAR             0       12      "\r\n"   4     TotalArea                          ""

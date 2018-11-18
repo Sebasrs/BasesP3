@@ -1,0 +1,7 @@
+13.0
+5
+1       SQLCHAR             0       12      ","      1     IdDataSpecies                  ""
+2       SQLCHAR             0       12      ","      2     IdSpeciesType                  ""
+3       SQLCHAR             0       11      ","      3     RuttingStart                   ""
+4       SQLCHAR             0       11      ","      4     RuttingEnd                     ""
+5       SQLCHAR             0       1       "\r\n"   5     Crystal                        ""
